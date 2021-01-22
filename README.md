@@ -3,8 +3,6 @@
 ## Description
 This Application allows users to create a README file by using a command-line
 
-![Screenshot](Develop/assets/images/readmeFileFinal.png)
-
 ## Table of Contents
 * [Features](#features)
 * [Installation](#installation)
