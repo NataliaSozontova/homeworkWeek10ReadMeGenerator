@@ -3,7 +3,7 @@
 ## Description
 This Application allows users to create a README file by using a command-line
 
-![Screenshot](/assets/images/readmeFileFinal.png)
+![Screenshot](Develop/assets/images/readmeFileFinal.png)
 
 ## Table of Contents
 * [Features](#features)
@@ -17,28 +17,30 @@ This Application allows users to create a README file by using a command-line
 ## Features
 * Project title generation
 
-![Screenshot](/assets/images/title.png)
+![Screenshot](Develop/assets/images/title.png)
 
 * Project description generation
 
-![Screenshot](/assets/images/desciption.png)
+![Screenshot](Develop/assets/images/desciption.png)
 
 * License generation
 
-![Screenshot](/assets/images/license.png)
+![Screenshot](Develop/assets/images/license.png)
 
 * Project sections generation
 
-![Screenshot](/assets/images/desciption.png)
+![Screenshot](Develop/assets/images/desciption.png)
 
 * Generated file 
 
-![Screenshot](/assets/images/readMeCode.png)
+![Screenshot](Develop/assets/images/readMeCode.png)
 
 ## Installation 
 * Clone this repository.
 * Open repository in your browser.
-* Follow instructions on the video - https://drive.google.com/file/d/17d_Yrfgmyy9lU7h4Mnw2i8vPvAVZRO5n/view?usp=sharing
+* Follow instructions on the video:
+
+https://drive.google.com/file/d/17d_Yrfgmyy9lU7h4Mnw2i8vPvAVZRO5n/view?usp=sharing
 
 ## Known Bugs
 None
