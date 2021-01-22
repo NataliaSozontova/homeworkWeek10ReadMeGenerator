@@ -1,30 +1,43 @@
-# hello
-  [![License](https://img.shields.io/badge/License-GPL-blue.svg)]
+# Generator
+  ![License](https://img.shields.io/badge/License-GPL-blue.svg)
 
 ## Description
 
-  world
+  this project is about geenarting readme
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
-  
-yes
-
-## Usage
-
-  no
-
-  
 * [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+  
+## Installation
 
+  I order to insatl ; clone repostory fdirst
 
-* [Contribution](#contrubution)
+## Usage 
 
-  github
+  it's very useful for develoers
+  
+## License 
+This project is licensed under the GPL license.
 
-* [Tests](#test)
+  https://opensource.org/licenses/GPL
 
-  tes1
+## Contributing
+
+  if u want to contrubute contatc me on my github
+
+## Tests
+
+  test 1unstrr
+
+## Questions 
+  
+  https://github.com/NataliaSozontova
+
+  Please email me for further questions at na@gmail.com
   
