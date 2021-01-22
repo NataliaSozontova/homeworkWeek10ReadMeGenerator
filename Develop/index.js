@@ -41,11 +41,13 @@ const questions = [
         name: 'contribution',
         message: 'Please write contribution guidelines for your project'
     },
+
     {
         type: 'input',
         name: 'test',
         message: 'Please write test instructions for your project'
     },
+
     {
         type: 'list',
         name: 'license',

@@ -10,7 +10,8 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== "None") {
-    return "\n* [License](#license)\n";
+    return `https://opensource.org/licenses/${license}`;
+   
   }
   return "";
 }
@@ -23,11 +24,13 @@ function renderLicenseSection(license) {
   return "";
 }
 
-
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ${renderLicenseBadge(data.license)}
+  
+${renderLicenseSection(data.license)}
+
+${renderLicenseLink(license)}
 
 ## Description
 
@@ -37,23 +40,32 @@ function generateMarkdown(data) {
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contribution](#contrubution)
+* [License](#license)
+* [Contributing](#contrubuting)
+* [Tests](#tests)
+* [Questions](#questions)
   
+## Installation
+
   ${data.installation}
 
-* [Usage](#usage)
+## Usage 
 
   ${data.usage}
 
   ${renderLicenseLink(data.license)}
 
-* [Contribution](#contrubution)
+## Contributing
 
   ${data.contribution}
 
-* [Tests](#test)
+## Tests
 
   ${data.test}
+
+## Questions 
+
+  ${data.}
   
 `;
 }
