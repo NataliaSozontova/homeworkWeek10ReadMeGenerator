@@ -47,11 +47,6 @@ const questions = [
         message: 'Please write test instructions for your project'
     },
     {
-        type: 'input',
-        name: 'test',
-        message: 'Please write test instructions for your project'
-    },
-    {
         type: 'list',
         name: 'license',
         message: 'Please choose a license for your project',
