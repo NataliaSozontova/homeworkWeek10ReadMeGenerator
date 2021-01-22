@@ -17,17 +17,13 @@ This Application allows users to create a README file by using a command-line
 
 ![Screenshot](Develop/assets/images/title.png)
 
-* Project description generation
+* Project description and sections generation
 
 ![Screenshot](Develop/assets/images/desciption.png)
 
 * License generation
 
 ![Screenshot](Develop/assets/images/license.png)
-
-* Project sections generation
-
-![Screenshot](Develop/assets/images/desciption.png)
 
 * Generated file 
 
