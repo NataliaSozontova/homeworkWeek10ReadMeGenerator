@@ -1,9 +1,8 @@
-# Generator
-  ![License](https://img.shields.io/badge/License-GPL-blue.svg)
-
+# Generator for READMe file  ![License](https://img.shields.io/badge/License-GPL-blue.svg)
+ 
 ## Description
 
-  this project is about geenarting readme
+  This application allows user to create README file by using commnands promt
 
 ## Table of Contents
 
@@ -16,11 +15,11 @@
   
 ## Installation
 
-  I order to insatl ; clone repostory fdirst
+  In order to install this application please clone he repository
 
 ## Usage 
 
-  it's very useful for develoers
+  This project can be used for developers in order to help them save time while creating new project
   
 ## License 
 This project is licensed under the GPL license.
@@ -29,15 +28,15 @@ This project is licensed under the GPL license.
 
 ## Contributing
 
-  if u want to contrubute contatc me on my github
+  If u would like to contribute please reach me out via email provided below
 
 ## Tests
 
-  test 1unstrr
+  please use manual tests since the automation in the progress 
 
 ## Questions 
   
   https://github.com/NataliaSozontova
 
-  Please email me for further questions at na@gmail.com
+  Please email me for further questions at nasozntova@gmail.com
   
